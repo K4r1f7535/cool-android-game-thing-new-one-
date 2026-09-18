@@ -1,0 +1,6 @@
+{
+  "name": "Retro Game Hub",
+  "description": "Retro arcade game hub featuring Snake II, 2048 Retro, Temple Runner 2D, Flappy Bounce, Space Blaster, and Brick Breaker with on-screen arcade controls and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
